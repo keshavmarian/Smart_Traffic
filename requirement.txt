@@ -1,0 +1,8 @@
+numpy==1.18.5
+opencv-python
+#tensorrt==7.1.3.0
+#pycuda
+tqdm
+protobuf
+onnx
+netron
